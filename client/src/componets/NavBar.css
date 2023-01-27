@@ -1,0 +1,20 @@
+.nav_div {
+	height: 6rem;
+	width: 100%;
+	position: fixed;
+	z-index: 10;
+	background: var(--rojo);
+}
+nav li {
+	display: inline;
+	padding-right: 1.5rem;
+	padding-top: 2rem;
+	font-size: 15px;
+	color: var(--blanco);
+	font-family: fuente1;
+}
+
+.descargar{
+	cursor: pointer;
+}
+

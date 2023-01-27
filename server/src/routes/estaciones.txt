@@ -1,0 +1,123 @@
+PROVINCIA,NOMBRE,XUTM,YUTM
+C�rdoba,Adamuz,373099,4206530
+Almer�a,Adra,500683,4066780
+Ja�n,Alcaudete,404780,4159460
+Almer�a,Almer�a,553282,4076780
+Huelva,Almonte,191221,4116990
+Huelva,Almonte bajo pl�stico,183346.69,4109139.5
+Huelva,Almonte bajo pl�stico frb,185851,4110940
+Granada,Almu�ecar,439384,4067570
+Granada,Almu�ecar,439500,4066160
+M�laga,Antequera,361277,4102170
+M�laga,Antequera,361021,4099810
+M�laga,Archidona,372855,4104350
+M�laga,Archidona,373857.8,4107195.2
+Huelva,Aroche,153376,4208510
+Sevilla,Aznalc�zar,209287,4116730
+C�rdoba,Baena,384851,4172400
+C�diz,Basurta-Jerez de la Frontera,230650,4072170
+Granada,Baza,520514,4157520
+C�rdoba,B�lmez,306667,4236350
+Ja�n,Chiclana de Segura,500305,4239420
+C�diz,Conil de la Frontera,218803,4025430
+Almer�a,Cuevas de Almanzora,606367,4124030
+Granada,C�diar,483613,4086360
+M�laga,C�rtama,350119,4064780
+C�rdoba,C�rdoba,341399,4191480
+Sevilla,Ecija,316625,4162680
+Huelva,El Campillo,182491,4174300
+C�rdoba,El Carpio,367791,4197330
+Huelva,El Tojalillo-Gibrale�n,143043,4137800
+M�laga,Estepona,301937,4035540
+Almer�a,Fi�ana,514311,4112270
+Huelva,Gibrale�n,140652,4148360
+Huelva,Gibrale�n - Manzorrales,144096,4136702
+Sevilla,Guillena,229175,4156370
+C�rdoba,Hornachuelos,309617,4176930
+Ja�n,Huesa,494567,4177790
+Granada,Hu�neja,503240,4118727
+Almer�a,Hu�rcal-Overa,598735,4141210
+Sevilla,IFAPA Centro Las Torres-Tomejil,238016,4155860
+Granada,IFAPA Centro Camino del Purchil,443311,4114150
+Huelva,IFAPA Centro Las Torres-Tomejil. Finca El Cebollar,162674,4128310
+Sevilla,IFAPA Centro Las Torres-Tomejil. Finca Tomejil,270958,4142490
+Ja�n,IFAPA Centro Mengibar,430790,4199560
+C�rdoba,IFAPA Centro de Cabra,373516,4151100
+M�laga,IFAPA Centro de Campanillas,360629,4065960
+C�diz,IFAPA Centro de Chipiona,196448,4072630
+C�rdoba,IFAPA Centro de Hinojosa del Duque,315518,4263000
+Sevilla,IFAPA Centro de Los Palacios,238484,4119600
+M�laga,IFAPA Churriana,365680,4059740
+Huelva,IFAPA El Cebollar Bajo plastico,162775,4128400
+Sevilla,Isla Mayor,222653,4112040
+Granada,Iznalloz,451202,4141210
+Ja�n,Ja�n,432183,4193960
+C�diz,Jerez de la Frontera,230594,4059470
+Granada,Jerez del Marquesado,486699,4116020
+C�diz,Jimena de la Frontera,286263,4032470
+Ja�n,J�dar,470605,4192400
+Ja�n,La Higuera de Arjona,411463,4200610
+Sevilla,La Luisiana,303108,4155460
+Almer�a,La Mojonera,526376,4071320
+Huelva,La Palma del Condado,186354,4141470
+Huelva,La Puebla de Guzm�n,124659,4164620
+Sevilla,La Puebla del R�o,221954,4124550
+Sevilla,La Puebla del R�o II,229178,4108110
+Sevilla,La Rinconada,241295,4149570
+Sevilla,Las Cabezas de San Juan,243351,4100490
+Sevilla,Lebrija 2,231713,4087880
+Sevilla,Lebrija I,221723,4096850
+Huelva,Lepe,123877,4136900
+Huelva,Lepe bajo pl�stico,123271,4129727
+Ja�n,Linares,449613,4215286
+Ja�n,Linares,443002,4212540
+Granada,Loja,398957,4114260
+Sevilla,Lora del R�o,275891,4171230
+Sevilla,Los Molares,262696,4117760
+Sevilla,Los Palacios y Villafranca,239078,4118790
+Ja�n,Mancha Real,447571,4196710
+Ja�n,Marmolejo,400806,4212640
+Ja�n,Marmolejo,396245,4211910
+Ja�n,Meng�bar,427594,4202140
+Huelva,Moguer,163137,4117860
+M�laga,M�laga,362741,4068970
+Huelva,Niebla,169098,4139930
+Almer�a,N�jar,574960,4089720
+Almer�a,N�jar,577785,4089250
+Sevilla,Osuna,310675,4125300
+Granada,Padul,446599,4097120
+C�rdoba,Palma del Rio,303720,4177720
+C�rdoba,Palma del R�o,303720,4177720
+Huelva,Palos de la Frontera bajo pl�stico,157141.75,4124863.2
+Granada,Pinos Puente,431438,4124200
+Granada,Pinos Puente Casanueva,430324.34,4121993.2
+M�laga,Pizarra,346918,4070360
+Ja�n,Pozo Alc�n,506163,4169420
+Sevilla,Puebla Cazalla,291408,4121660
+Granada,Puebla de Don Fadrique,554375,4192250
+C�diz,Puerto de Santa Mar�a,216316.92,4055676
+C�diz,Puerto de Santa Mar�a,218061,4056940
+Ja�n,Sabiote,479346,4214660
+Ja�n,San Jos� de los Propios,479742,4190080
+Sevilla,Sanl�car La Mayor,211943,4146640
+C�diz,Sanl�car de Barrameda,202554,4068870
+C�diz,Sanl�car de Barrameda,206106,4081540
+C�diz,Sanl�car de Barrameda,204285,4075660
+C�rdoba,Santaella,333382,4154500
+Ja�n,Santo Tom�,492726,4209060
+M�laga,Sierra Yeguas,336928,4111800
+Almer�a,Tabernas,561998,4105230
+Ja�n,Torreblascopedro,439469,4204790
+Ja�n,Torreperogil,478573,4203000
+Almer�a,T�jola,548076,4136270
+Almer�a,T�jola,547839,4137000
+Ja�n,Ubeda,473599,4199520
+C�diz,Vejer de la Frontera,244927,4019310
+Ja�n,Villacarrillo,482408,4212870
+Sevilla,Villafranco del Guadalquivir,219935,4110450
+C�diz,Villamart�n,266049,4080680
+Sevilla,Villanueva del R�o y Minas,263096,4166270
+Sevilla,Villanueva del R�o y Minas,262609,4164000
+Almer�a,Virgen de F�tima-Cuevas de Almanzora,608847,4138750
+M�laga,V�lez-M�laga,399039,4072850
+Granada,Zafarraya,397321,4094420

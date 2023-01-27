@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+@font-face {
+  font-family: fuente1;
+  src: url("./fonts/Roboto/Roboto-Black.ttf");
+ 
+}
+@font-face {
+font-family: fuente2;
+src: url("./fonts/Roboto/Roboto-Black.ttf");
+
+}
+:root{
+--blanco: #ffff;
+--rojo: #842319;
+}
+  

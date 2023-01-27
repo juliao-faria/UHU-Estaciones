@@ -1,0 +1,5 @@
+.card{
+    color: var(--blanco);
+    font-family: fuente1;  
+    z-index: -10;
+}

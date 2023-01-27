@@ -1,0 +1,13 @@
+.table{
+    color: var(--rojo);
+    height: 2rem;
+    background: var(--blanco);
+    font-family: fuente1;
+   position: relative;
+}
+
+p{
+    display: inline;
+    margin: auto;
+    padding-left: 10px;
+}
